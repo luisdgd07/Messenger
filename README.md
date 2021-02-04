@@ -1,24 +1,21 @@
-# chat
+# Messenger
 
-## Project setup
+Maquetación de vistas de plataforma de mensajeria en Vue y Vuetify
+
+## Instalación
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar vistas
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para producción
+
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

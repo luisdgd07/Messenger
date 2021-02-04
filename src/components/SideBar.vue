@@ -50,6 +50,12 @@
                                 <v-img src="https://cdn.vuetifyjs.com/images/lists/2.jpg"></v-img>
                             </v-avatar>
                         </v-badge>
+                        <v-badge bordered bottom color="green" dot offset-x="22" offset-y="26">
+                    <v-list-item-avatar>
+                                                      <v-img src="https://cdn.vuetifyjs.com/images/lists/2.jpg"></v-img>
+
+                    </v-list-item-avatar>
+                  </v-badge>
                     </v-list-item-avatar>
                 </v-list-item>
             </v-list>
